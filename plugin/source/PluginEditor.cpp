@@ -1,5 +1,5 @@
-#include "YourPluginName/PluginEditor.h"
-#include "YourPluginName/PluginProcessor.h"
+#include "normaliser/PluginEditor.h"
+#include "normaliser/PluginProcessor.h"
 
 namespace audio_plugin {
 AudioPluginAudioProcessorEditor::AudioPluginAudioProcessorEditor(
